@@ -1,0 +1,9 @@
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/actool/partial-info.plist
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/
+/Users/integrationservices/GitHub/GitTest/GitTest/bin/iPhone/Debug/GitTest.exe.mdb
+/Users/integrationservices/GitHub/GitTest/GitTest/bin/iPhone/Debug/GitTest.exe
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/GitTest.exe
+/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhone/Debug/GitTest.exe.mdb

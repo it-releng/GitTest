@@ -1,0 +1,33 @@
+# Version: 8.10.0.267 (6481535)
+# [first argument, ignore] # /Users/integrationservices/GitHub/GitTest/GitTest/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.0.267/bin/mtouch \
+	--cache \
+	/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/integrationservices/GitHub/GitTest/GitTest/bin/iPhoneSimulator/Debug/GitTest.app \
+	--executable \
+	GitTest \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.2 \
+	--targetver \
+	8.2 \
+	--abi=i386 \
+	--symbollist \
+	/Users/integrationservices/GitHub/GitTest/GitTest/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/integrationservices/GitHub/GitTest/GitTest/bin/iPhoneSimulator/Debug//GitTest.exe \
