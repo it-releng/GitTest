@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace GitTest
 {
@@ -6,7 +6,8 @@ namespace GitTest
 	{
 		public EmptyClass ()
 		{
-			int i = 4;
+			int i = 5;
+
 		}
 	}
 }
