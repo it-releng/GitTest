@@ -9,6 +9,7 @@ namespace GitTest
 			int j = 0;
 			int A = 1;
 			int z = 2;
+			int k = 3;
 		}
 	}
 }
