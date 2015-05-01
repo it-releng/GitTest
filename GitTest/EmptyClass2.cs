@@ -10,7 +10,7 @@ namespace GitTest
 			int A = 1;
 			int z = 2;
 			int k = 3;
-			int p = 2;
+			int p = 333;
 		}
 	}
 }
