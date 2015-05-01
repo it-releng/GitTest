@@ -7,6 +7,7 @@ namespace GitTest
 		public EmptyClass2 ()
 		{
 			int j = 0;
+			int A = 1;
 		}
 	}
 }
