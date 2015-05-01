@@ -6,7 +6,7 @@ namespace GitTest
 	{
 		public EmptyClass ()
 		{
-			int i = 0;
+			int i = 2;
 		}
 	}
 }
