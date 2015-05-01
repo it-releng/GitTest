@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace GitTest
 {
@@ -10,7 +10,7 @@ namespace GitTest
 			int A = 1;
 			int z = 2;
 			int k = 3;
-			int p = 900;
+			int p = 600;
 		}
 	}
 }
