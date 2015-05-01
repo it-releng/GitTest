@@ -79,11 +79,8 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-<<<<<<< HEAD
     <Compile Include="EmptyClass.cs" />
-=======
     <Compile Include="EmptyClass2.cs" />
->>>>>>> Stash
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
